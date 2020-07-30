@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Web-App
-An end to end sentiment analysis project completed as part of the Udacity Machine Learning Engineer Nanodegree. This project is built using Python, Pytorch and AWS Sagemaker among other tools. 
+An end to end sentiment analysis project completed as part of the Udacity Machine Learning Engineer Nanodegree. This project was built using Python, Pytorch and AWS Sagemaker among other tools. 
 
 The goal of this project was to create a simple web page which a user can use to enter a movie review. The web page will then send the review off to the deployed model which will predict the sentiment of the entered review.
 
