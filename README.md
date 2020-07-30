@@ -14,7 +14,7 @@ This project successfully:
 
 - [x] Downloads the data.
 - [x] Processes/Prepares the data.
-- [x] Uploads the processed data to S3.
+- [x] Uploads the processed data to Amazon S3.
 - [x] Trains a PyTorch model.
 - [x] Deploys the trained model.
 - [x] Uses the deployed model in the web app.
