@@ -9,3 +9,12 @@ The goal of this project was to create a simple web page which a user can use to
 
 ### An example of entering a negative review
 ![Image of Web App 2](https://media.giphy.com/media/dWNx6FcCs1Hhnkb4wm/giphy.gif)
+
+This project successfully:
+
+- [x] Downloads the data.
+- [x] Processes/Prepares the data.
+- [x] Uploads the processed data to S3.
+- [x] Trains a PyTorch model.
+- [x] Deploys the trained model.
+- [x] Uses the deployed model in the web app.
